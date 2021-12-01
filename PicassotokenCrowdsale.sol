@@ -44,7 +44,7 @@ contract picassoCoinCrowdsaleDeployer {
 
             
         // Aassign the `PicassoCoinCrowdsale` contract’s address to the `kasei_crowdsale_address` variable.
-        kasei_crowdsale_address = address(crowd);
+        Picasso_crowdsale_address = address(crowd);
 
 
         // Set the `PicassoCoinCrowdsale` contract as a minter
