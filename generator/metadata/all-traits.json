@@ -3,30 +3,30 @@
         "Background": "Orange",
         "Circle": "Blue",
         "Square": "Blue",
-        "tokenID": 0
-    },
-    {
-        "Background": "Blue",
-        "Circle": "Blue",
-        "Square": "Orange",
-        "tokenID": 1
-    },
-    {
-        "Background": "Blue",
-        "Circle": "Blue",
-        "Square": "Blue",
-        "tokenID": 2
-    },
-    {
-        "Background": "Blue",
-        "Circle": "Orange",
-        "Square": "Blue",
-        "tokenID": 3
+        "tokenId": 0
     },
     {
         "Background": "Orange",
         "Circle": "Blue",
         "Square": "Orange",
-        "tokenID": 4
+        "tokenId": 1
+    },
+    {
+        "Background": "Orange",
+        "Circle": "Orange",
+        "Square": "Blue",
+        "tokenId": 2
+    },
+    {
+        "Background": "Blue",
+        "Circle": "Blue",
+        "Square": "Blue",
+        "tokenId": 3
+    },
+    {
+        "Background": "Blue",
+        "Circle": "Orange",
+        "Square": "Blue",
+        "tokenId": 4
     }
 ]
